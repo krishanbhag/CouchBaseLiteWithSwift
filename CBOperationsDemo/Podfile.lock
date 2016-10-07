@@ -1,0 +1,23 @@
+PODS:
+  - couchbase-lite-ios (1.3.1):
+    - couchbase-lite-ios/SQLite (= 1.3.1)
+  - couchbase-lite-ios/SQLite (1.3.1)
+  - IQKeyboardManagerSwift (4.0.6)
+  - JVFloatLabeledTextField (1.1.1)
+  - UITextField+Blocks (1.0.0)
+
+DEPENDENCIES:
+  - couchbase-lite-ios
+  - IQKeyboardManagerSwift
+  - JVFloatLabeledTextField
+  - UITextField+Blocks
+
+SPEC CHECKSUMS:
+  couchbase-lite-ios: e4672e9c623e31584602c0300c299c363acebb05
+  IQKeyboardManagerSwift: b3015e819559ca76381f87a0833f44d178564603
+  JVFloatLabeledTextField: 0e5524b097f102036214dd8279edc8ecf08b5e18
+  UITextField+Blocks: 8cca9c6fb4520348c05821db49fda089367e85c6
+
+PODFILE CHECKSUM: 088dc46432361b43a8d41a9e8feeeb77b60a0914
+
+COCOAPODS: 1.0.1

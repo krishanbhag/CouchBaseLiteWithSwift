@@ -1,0 +1,6 @@
+framework module UITextField_Blocks {
+  umbrella header "UITextField+Blocks-umbrella.h"
+
+  export *
+  module * { export * }
+}
